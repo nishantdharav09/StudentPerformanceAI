@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 python -m streamlit run src/app.py
 
-Option 2:- extact the zip file and open the all file and dubble click on "run_app.bat"
+Option 2:- extact the zip file and extract all file and dubble click on "run_app.bat" to run project
   
 📊 How It Works
 
