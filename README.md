@@ -114,6 +114,7 @@ EduPredict/
 
 
 ▶️ How to Run
+option 1:-
 
 1\. Install required libraries
 
@@ -123,6 +124,8 @@ pip install -r requirements.txt
 
 python -m streamlit run src/app.py
 
+Option 2:- extact the zip file and open the all file and dubble click on "run_app.bat"
+  
 📊 How It Works
 
 Student enters academic details.
