@@ -114,6 +114,7 @@ EduPredict/
 
 
 ▶️ How to Run
+
 option 1:-
 
 1\. Install required libraries
