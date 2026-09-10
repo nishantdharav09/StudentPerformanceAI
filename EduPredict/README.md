@@ -176,7 +176,5 @@ The objective of EduPredict is to demonstrate how Machine Learning can be used t
 
 👨‍💻 Author
 
-
-
 Nishant Dharav
 
