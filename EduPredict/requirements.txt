@@ -3,4 +3,4 @@ numpy
 matplotlib
 scikit-learn
 streamlit
-joblib
+joblib==1.5.2
