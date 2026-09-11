@@ -77,16 +77,6 @@ EduPredict/
 
 │   └── student\_performance\_500.csv
 
-│
-
-├── notebooks/
-
-│
-
-├── screenshots/
-
-│
-
 ├── src/
 
 │   ├── app.py
@@ -125,7 +115,7 @@ pip install -r requirements.txt
 
 python -m streamlit run src/app.py
 
-Option 2:- extact the zip file and extract all file and dubble click on "run_app.bat" to run project
+Option 2:- Go to the GitHub repository, download the ZIP file, extract all the files, and double-click run_app.bat to run the project.
   
 📊 How It Works
 
