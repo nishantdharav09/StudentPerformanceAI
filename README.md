@@ -6,7 +6,7 @@ EduPredict is a Machine Learning project that predicts a student's final marks b
 
 ## 🚀 Features
 
-- 📚 Study Hours based prediction
+- 📚 Study Hours based prediction.
 
 - 📅 Attendance analysis
 
