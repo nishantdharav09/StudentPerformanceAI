@@ -105,7 +105,7 @@ EduPredict/
 
 ▶️ How to Run
 
-option 1:-
+Option 1:-
 
 1\. Install required libraries
 
